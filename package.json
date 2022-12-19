@@ -1,0 +1,15 @@
+{
+  "name": "express-proxy-demo",
+  "version": "1.0.0",
+  "description": "Demo Application for Proxy Implementation in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Saurabh Dashora",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
